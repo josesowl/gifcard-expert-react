@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Vite] and [React].
 
-click on [ https://gifcard-expert-jose.netlify.app ] to see the app.
+just need to click [here](https://gifcard-expert-jose.netlify.app) to see the app.
 
 ## Available Scripts
 
